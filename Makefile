@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 14
 SUBLEVEL = 73
-EXTRAVERSION = -linux4sam_6.0
+EXTRAVERSION = -linux4sam-6.0
 NAME = Petit Gorille
 
 # *DOCUMENTATION*
